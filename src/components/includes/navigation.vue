@@ -21,7 +21,7 @@
                     <a class="nav-link" href="https://www.linkedin.com/in/john-gill-927867171/" target="_blank">LinkedIn</a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link" href="https://www.twitter.com/theseathestars/" target="_blank">Twitter</a>
+                    <a class="nav-link" href="https://www.twitter.com/johngillcodes/" target="_blank">Twitter</a>
                 </li>
                 </ul>
             </div>

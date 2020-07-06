@@ -9,7 +9,20 @@
         </div>
     </div>
 </template>
+<script lang="ts">
+export default {
+    data(){
+        return {
+            contact:{
+                email:'',
+                message:''
+            }
+        }
+    },
 
+}
+
+</script>
 
 
 <style lang="css" scoped>
